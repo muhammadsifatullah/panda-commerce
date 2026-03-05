@@ -19,3 +19,55 @@
 .carousel-item{
     padding: 20px 60px;
 }
+
+                                                               /* categoreis */
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background: linear-gradient(90deg,rgba(234, 150, 61, 1) 0%, rgba(236, 202, 26, 1) 100%);
+}
+.cat2{
+    background: linear-gradient(180deg,rgba(241, 76, 138, 1) 0%, rgba(235, 25, 102, 1) 100%);
+}
+.cat3{
+    background: linear-gradient(90deg,rgba(90, 121, 218, 1) 0%, rgba(55, 16, 246, 1) 100%);
+}
+.categoreis h1{
+    color: white;
+}
+.categoreis img{
+    width: 120px;
+}
+
+                                                    /* shoes card*/
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+                                                    /* backpack card*/
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+                                                    /* subscribe*/
+
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+#subscribe button{
+    margin-top: 10px;
+}
+
+footer{
+    text-align: center;
+}
